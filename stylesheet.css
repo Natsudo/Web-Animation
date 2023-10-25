@@ -1,0 +1,25 @@
+body {
+    background-color: #000; /* Background color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    background: linear-gradient(135deg, #ff00ff, #ff0000); /* Red to Purple gradient */
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.letter {
+    font-size: 60px;
+    color: #fff; /* Text color */
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}

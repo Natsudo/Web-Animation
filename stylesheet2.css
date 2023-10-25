@@ -1,0 +1,35 @@
+ .mickey-logo {
+            width: 200px;
+            height: 200px;
+            background-color: #000;
+            border-radius: 50%;
+            position: relative;
+        }
+
+.head {
+            width: 100px;
+            height: 100px;
+            background-color: #fff;
+            border-radius: 50%;
+            position: absolute;
+            top: 50px;
+            left: 50px;
+        }
+
+.ears {
+            width: 40px;
+            height: 80px;
+            background-color: #000;
+            border-radius: 50%;
+            position: absolute;
+            top: 10px;
+        }
+
+.ear-left {
+            left: -20px;
+        }
+
+.ear-right {
+            right: -20px;
+        }
+
